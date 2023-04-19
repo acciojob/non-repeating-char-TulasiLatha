@@ -8,5 +8,6 @@ var newString="";
 				output=str.charAt(i);
 			}
 		}
-		var input=prompt("Enter a string");
+		var input=prompt("Enter a string",str);
+		nonRepeat(input);
 		alert(output);
