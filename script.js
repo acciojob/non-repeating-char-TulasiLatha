@@ -9,4 +9,4 @@ var newString="";
 			}
 		}
 		var input=prompt("Enter a string");
-		alert().nonRepeat(input);
+		alert(output);
